@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "implemequeueusstack",
+            "request": "launch",
+            "mainClass": "DSA.Queue.implemequeueusstack",
+            "projectName": "Placement Preparation_70ba7ae9"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
